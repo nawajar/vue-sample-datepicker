@@ -1,6 +1,6 @@
 # calendar
 
-![alt text](https://github.com/nawajar/vue-sample-datepicker/blob/src/assets/picker.png?raw=true)
+![alt text](https://github.com/nawajar/vue-sample-datepicker/blob/main/src/assets/picker.png?raw=true)
 
 ## Project setup
 ```
