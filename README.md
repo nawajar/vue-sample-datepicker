@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/nawajar/vue-sample-datepicker/blob/main/src/assets/picker.png?raw=true)
 
+no dependencies calendar date picker example in vue
+
 ## Project setup
 ```
 yarn install
