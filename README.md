@@ -1,5 +1,7 @@
 # calendar
 
+![alt text](https://github.com/nawajar/vue-sample-datepicker/blob/main/picker.png?raw=true)
+
 ## Project setup
 ```
 yarn install
